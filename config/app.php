@@ -1,6 +1,6 @@
 <?php
 
-	const APP_URL="http://localhost:8080/";
+	const APP_URL="https://cas-p4-production.up.railway.app/";
 	const APP_NAME="VENTAS Christopher Aguilar Sanchez 5F";
 	const APP_SESSION_NAME="POS";
 
