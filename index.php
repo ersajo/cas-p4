@@ -16,6 +16,7 @@
 <html lang="en">
 <head>
     <?php require_once "./app/views/inc/head.php";    ?>
+    <link rel="icon" type="image/x-icon" href="./app/views/img/icono.ico">
 </head>
 <body>
     <?php
