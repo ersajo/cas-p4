@@ -16,7 +16,9 @@
 <html lang="en">
 <head>
     <?php require_once "./app/views/inc/head.php";    ?>
-    <link rel="icon" type="image/x-icon" href="./app/views/img/icono.ico">
+    <?php
+      echo '<link rel="icon" type="image/x-icon" href="'.APP_URL.'/app/views/img/icono.ico">';
+    ?>
 </head>
 <body>
     <?php
